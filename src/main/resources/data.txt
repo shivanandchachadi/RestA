@@ -1,25 +1,3 @@
-[
-    {
-
-      "first_name": "Sebastian123",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
-    },
-    {
-
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
-    },
-    {
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
-    },
-    {
-
-      "first_name": "shivanand",
-      "last_name": "chachadi",
-      "email": "ann@gmail.com"
-    }
-  ]
+Testcase01:
+Testcase02: {"firstName": "Virat","lastName": "kholi","phoneNumber": "900000000","emailAddress": "jone.mac@learningcontainer.com"}
+Testcase03: {"firstName": "Virat","lastName": "kholi","phoneNumber": "898989898","emailAddress": "jone.mac@money.com"}
