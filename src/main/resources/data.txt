@@ -1,3 +1,1 @@
-Testcase01:
-Testcase02: {"firstName": "Virat","lastName": "kholi","phoneNumber": "900000000","emailAddress": "jone.mac@learningcontainer.com"}
-Testcase03: {"firstName": "Virat","lastName": "kholi","phoneNumber": "898989898","emailAddress": "jone.mac@money.com"}
+{   "firstName": "Vinya",   "lastName": "thripaty",   "phoneNumber": "00000099999",   "emailAddress": "jone.mac@thripaty.com" }
