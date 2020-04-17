@@ -41,23 +41,10 @@ public class Utils {
         Map<String,String> headerlist=new HashMap<>();
         File file=new File ((System.getProperty("user.dir")+"//src//main//resources//headers.txt"));
         BufferedReader bfr= new BufferedReader(new FileReader(file));
-       // String datas;
-        /*while ((datas=bfr.readLine())!=null)
-        {*/
             String[] pair=headers.trim().split(",",2);
             String key=pair[0];
-            /*if (key.equals(testcaseid))
-            {*/
                 String value=pair[1];
-               /* String[] s=value.trim().split(",",2);
-                String left=s[0];
-                String right=s[1];*/
                 headerlist.put(key,value);
-         //   }
-
-
-
-       // }
 
         System.out.println("the headers are "+ headerlist);
 
